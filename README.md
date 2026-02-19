@@ -15,3 +15,8 @@ Post : Agentic AI Intern 2026
 3. TASK 3 Python Programming Assignment Data Processing and Analysis
 4. TASK 4 Function with Loops
 5. TASK 5
+
+Special Tasks
+1. Blog Submission 1 :
+2. Hacker Rank Link :
+3. 
