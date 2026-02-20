@@ -18,5 +18,5 @@ Post : Agentic AI Intern 2026
 
 Special Tasks
 1. Blog Submission 1 :
-2. Hacker Rank Link :
+2. Hacker Rank Link : https://www.hackerrank.com/submissions/all
 3. 
