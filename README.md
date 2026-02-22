@@ -14,7 +14,8 @@ Post : Agentic AI Intern 2026
 2. TASK 2 Logic Building & Data Science
 3. TASK 3 Python Programming Assignment Data Processing and Analysis
 4. TASK 4 Function with Loops
-5. TASK 5
+5. TASK 5 Real-World Function-Based Problem Solving
+6. TASK 6 
 
 Special Tasks
 1. Blog Submission 1 :
