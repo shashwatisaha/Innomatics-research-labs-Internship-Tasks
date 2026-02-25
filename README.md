@@ -16,7 +16,8 @@ Post : Agentic AI Intern 2026
 4. TASK 4 Function with Loops
 5. TASK 5 Real-World Function-Based Problem Solving
 6. TASK 6 Function-Based Problem Solving
-7. TASK 7 
+7. TASK 7 OOPs Logic Building
+8. TASK 8
 
 Special Tasks
 1. Blog Submission 1 :
