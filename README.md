@@ -20,7 +20,8 @@ Post : Agentic AI Intern 2026
 8. TASK 8
 
 Special Tasks
-1. Blog Submission 1 :
+1. Blog Submission 1 : Python Module : 
 2. 
-3. Hacker Rank Link : https://www.hackerrank.com/submissions/all
+3. Hacker Rank Link : https://www.hackerrank.com/profile/shashwatisaha21
+   
  
